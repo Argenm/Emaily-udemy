@@ -1,0 +1,41 @@
+[33mcommit ce93efbd138f0fd53a67bdf74597849f56ae851a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Wed Jul 25 10:37:20 2018 -0700
+
+    tweak google strategy settings, proxy=true
+
+[33mcommit e9acc103d10d4d34de82db25be2c861a2f6cb3ea[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Wed Jul 25 10:19:00 2018 -0700
+
+    heroku credentials
+
+[33mcommit ca61d962cef16d4b1b10c4ce387b5a06e1b134c6[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Wed Jul 25 09:38:36 2018 -0700
+
+    working on auth
+
+[33mcommit 473647c0bcd2e0e5332ea697afc47daf28c24f49[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Tue Jul 17 16:03:59 2018 -0700
+
+    going home
+
+[33mcommit 6455256f26d6795f0e82574fb32251a44688dc2e[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Tue Jul 17 15:24:53 2018 -0700
+
+    changed greeting
+
+[33mcommit 15d879b0038e31da0301a2330c537e1afeb5da30[m
+Author: ne.Argen Mousesian <ne.Argen.Mousesian@j2global.com>
+Date:   Tue Jul 17 15:12:59 2018 -0700
+
+    heroku open
+
+[33mcommit cbc6ceecf61259675cbe0569e3fcfd3e05f9ede3[m
+Author: ne.Argen Mousesian <ne.argen.mousesian@j2global.com>
+Date:   Tue Jul 17 13:33:45 2018 -0700
+
+    initial commit
